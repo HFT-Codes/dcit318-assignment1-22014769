@@ -2,6 +2,15 @@
 
 This repository contains three independent C# console applications for DCIT 318: Programming II.
 
+## Cloning the Repository
+
+Use Git to download the repository to your computer:
+
+```powershell
+git clone https://github.com/HFT-Codes/dcit318-assignment1-22014769.git
+cd dcit318-assignment1-22014769
+```
+
 ## Applications
 
 - **Grade Calculator** (`GradeCalculator.cs`)
@@ -36,3 +45,4 @@ dotnet run --project .\GradeCalculator
 ```
 
 Replace `GradeCalculator` in the commands with `TicketPriceCalculator` or `TriangleTypeIdentifier` to run the other applications.
+
